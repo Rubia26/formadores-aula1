@@ -2,6 +2,7 @@ body {
     background-color: black;
     color: white;
     font-family:"Chakra Petch", sans-serif;
+    margin: 0px;
 }
 
 h1 {
@@ -10,4 +11,11 @@ h1 {
 
 p{
     font-size: 20px;
+}
+
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42,122,228);
 }
